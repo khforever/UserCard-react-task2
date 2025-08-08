@@ -1,0 +1,8 @@
+Create a UserCard Component
+	•	Create a Users Array.
+	•	Create a new file: UserCard.jsx
+	•	This component should display: ( Full name, Age, City , image (use a public image URL) )
+	•	Use props to pass the user data.
+	•	Structure the component using clean JSX and basic HTML tags.
+	•	Use className for styling.
+	•	Render Users with map()
